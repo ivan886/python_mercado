@@ -1,0 +1,22 @@
+
+
+
+.cielo{
+    height: 500px;
+    width: auto;
+    background-color: #6bd1fc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.sol{
+
+    width: 200px;
+    height: 200px;
+    background-color: #fee6aa;
+    border-radius: 50%;
+
+}
